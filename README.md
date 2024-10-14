@@ -87,6 +87,11 @@
 </table>
 <br />
 
+<!--Actions Snape-->
+<div align="center">
+    <img src="https://github.com/FrankGalloSanchez/FrankGalloSanchez/blob/output/github-contribution-grid-snake.svg" border-radius="15">
+</div>
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
@@ -94,7 +99,6 @@
 </div>
 
 ---
-
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
